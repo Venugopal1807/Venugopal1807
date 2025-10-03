@@ -1,30 +1,31 @@
 <h1 align="center">Venu Gopal</h1>
 <h3 align="center">Full Stack Developer | CS Graduate | AI & Open Source Enthusiast</h3>
 
-🔹 **About Me**  
-I'm a Computer Science graduate passionate about building clean, accessible, and impactful web applications.  
-Currently exploring AI integrations, leveling up in full-stack development, and contributing to open-source projects.  
-I thrive in collaborative spaces where innovation meets real-world solutions.
+---
 
-🔧 **Tech Stack:** MERN, Python
-📚 **Focus Areas:** Frontend Engineering, Full-Stack Development, Web Applications, DSA  
-🎯 **Current Goal:** Build & deploy scalable, AI-powered or interactive web applications
+## 🔹 About Me
+
+I'm a Computer Science graduate passionate about building clean, accessible, and purposeful web applications. Currently exploring **AI integrations**, leveling up in **full-stack development** by building projects, and contributing to **open-source**. I thrive in collaborative spaces where innovation meets impact.
+
+- 🔧 Tech Stack: **MERN**, **Python**
+- 📚 Focus Areas: **Full Stack Development**, **Frontend Engineering**, **DSA**, **AI/ML**
+- 🎯 Current Goal: Build & deploy scalable, AI-powered or interactive web applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎨 Portfolio Website
-Showcasing my journey as a Full-Stack Developer and web enthusiast.  
-**Tech:** HTML • CSS • JavaScript
+- 🎨 [**Portfolio Website**](https://github.com/Venugopal1807/Portfolio-Website)  
+Showcasing my journey as a Full-Stack Developer and web enthusiast.
+Featuring: • `HTML/CSS/JS`  
 
-### 🖥️ Chat Application
+- 🖥️ [**Chat Application**](https://github.com/Venugopal1807/Python-Chat-App)  
 Real-time chat application with user authentication and message storage.  
-**Tech:** Python • Flask • Socket.IO
+Featuring: `Python` • `Flask` • `Socket.IO`
 
-### 💡 AI Resume Builder
+- 💡 [**AI Resume Scanner**](https://github.com/Venugopal1807/AI-Resume-Scanner)  
 An interactive web application to score resumes based on the Job description.  
-**Tech:** Python • Streamlit • NLP • ML 
+Featuring: `Python` • `Streamlit` • `NLP & Machine Learning`  
 
 ---
 
@@ -57,7 +58,3 @@ An interactive web application to score resumes based on the Job description.
 <p align="center"><i>"Started with curiosity. Shaped by code. Sharpened by feedback."</i></p>
 
 ---
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/venugopal-kunchepu/)  
-- [Twitter](https://x.com/Venugopalk1807)  
