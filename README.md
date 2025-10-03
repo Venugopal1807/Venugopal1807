@@ -17,7 +17,6 @@ I'm a Computer Science graduate passionate about building clean, accessible, and
 
 - 🎨 [**Portfolio Website**](https://github.com/Venugopal1807/Portfolio-Website)  
 Showcasing my journey as a Full-Stack Developer and web enthusiast.
-Featuring: • `HTML/CSS/JS`  
 
 - 🖥️ [**Chat Application**](https://github.com/Venugopal1807/Python-Chat-App)  
 Real-time chat application with user authentication and message storage.  
