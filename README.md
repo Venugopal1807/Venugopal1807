@@ -1,5 +1,5 @@
-#  Venu Gopal
-**Full-Stack Developer | CS Graduate | AI & Open Source Enthusiast**
+<h1 align="center">Venu Gopal</h1>
+<h3 align="center">Full Stack Developer | CS Graduate | AI & Open Source Enthusiast</h3>
 
 🔹 **About Me**  
 I'm a Computer Science graduate passionate about building clean, accessible, and impactful web applications.  
@@ -37,10 +37,13 @@ An interactive web application to score resumes based on the Job description.
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Gemini API, Cloud (Basics)
 
 ---
+
+<pre align="center">
 +-------------------------------------------------------------+
-| Every line I write isn't just code — it's a step toward |
-| building meaningful and practical solutions. |
+| Every line I write isn't just syntax — it's a step toward   |
+|     solving real-world problems with code.                  |
 +-------------------------------------------------------------+
+</pre>
 
 ---
 
@@ -51,7 +54,7 @@ An interactive web application to score resumes based on the Job description.
 
 ---
 
-💡 **Motto:** "Started with curiosity. Shaped by code. Sharpened by feedback."
+<p align="center"><i>"Started with curiosity. Shaped by code. Sharpened by feedback."</i></p>
 
 ---
 
