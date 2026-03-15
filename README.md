@@ -1,59 +1,94 @@
-<h1 align="center">Venu Gopal</h1>
-<h3 align="center">Full Stack Developer | CS Graduate | AI & Open Source Enthusiast</h3>
+<h1 align="center">Venu Gopal Kunchepu</h1>
+
+<p align="center">
+  <strong>Full Stack & Mobile Developer</strong><br/>
+  React Native • Kotlin • Node.js • TypeScript • PostgreSQL
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/venugopal-kunchepu">LinkedIn</a> •
+  <a href="https://venugopalk.vercel.app">Portfolio</a> •
+  <a href="mailto:kunchepu.venugopal@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🔹 About Me
+## About Me
 
-I'm a Computer Science graduate passionate about building clean, accessible, and purposeful web applications. Currently exploring **AI integrations**, leveling up in **full-stack development** by building projects, and contributing to **open-source**. I thrive in collaborative spaces where innovation meets impact.
+Software developer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
 
-- 🔧 Tech Stack: **MERN**, **Python**
-- 📚 Focus Areas: **Full Stack Development**, **Frontend Engineering**, **DSA**, **AI/ML**
-- 🎯 Current Goal: Build & deploy scalable, AI-powered or interactive web applications.
+- 🔧 Built **3 production mobile apps** — Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
+- 💳 Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
+- 📡 Implemented **Bluetooth Low Energy (BLE)** communication between mobile apps and fuel dispensing hardware (MDU controllers)
+- 🔌 Designed **offline-first architecture** using SQLite/Room for zero-network environments
+- 🗄️ Built **backend REST APIs** with Node.js, TypeScript, and PostgreSQL with multi-tenant data isolation
 
----
-
-## 🚀 Featured Projects
-
-- 🎨 [**Portfolio Website**](https://github.com/Venugopal1807/Portfolio-Website)  
-Showcasing my journey as a Full-Stack Developer and web enthusiast.
-
-- 🖥️ [**Chat Application**](https://github.com/Venugopal1807/Python-Chat-App)  
-Real-time chat application with user authentication and message storage.  
-Featuring: `Python` • `Flask` • `Socket.IO`
-
-- 💡 [**AI Resume Scanner**](https://github.com/Venugopal1807/AI-Resume-Scanner)  
-An interactive web application to score resumes based on the Job description.  
-Featuring: `Python` • `Streamlit` • `NLP & Machine Learning`  
+Currently seeking **full-time roles** in Full Stack, Backend, or Mobile Development.
+Based in Hyderabad | Immediate joiner | Open to remote & relocation
 
 ---
 
-## 🧰 Technical Skills
+## Tech Stack
 
-**Languages:** JavaScript, Python, Java
-**Frontend:** HTML5, CSS3, React, Tailwind, Bootstrap  
-**Backend:** Node.js, Express, Flask
-**Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Gemini API, Cloud (Basics)
+**Mobile & Frontend**
+`React Native` `Kotlin` `Android (Jetpack Compose)` `React.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML/CSS`
 
----
+**Backend & APIs**
+`Node.js` `Express.js` `Python` `Flask` `FastAPI` `REST APIs` `JWT Authentication`
 
-<pre align="center">
-+-------------------------------------------------------------+
-| Every line I write isn't just syntax — it's a step toward   |
-|     solving real-world problems with code.                  |
-+-------------------------------------------------------------+
-</pre>
+**Databases**
+`PostgreSQL` `MongoDB` `SQLite/Room`
 
----
+**Integrations & Hardware**
+`HDFC SmartGateway` `Bluetooth Low Energy (BLE)` `Firebase`
 
-## 📜 Certifications & Courses
-- Full Stack Development - Green Tree Softtech Solutions
-- AI for Beginners - HP 
-- Python Programming – Green Tree Softtech Solutions
+**Tools & Deployment**
+`Git` `GitHub` `Postman` `Figma` `Expo EAS` `Railway` `Vercel` `Replit` `Google Cloud Console` `Vite`
 
 ---
 
-<p align="center"><i>"Started with curiosity. Shaped by code. Sharpened by feedback."</i></p>
+## Featured Work
+
+### Fuel Delivery Platform — Zapygo Energy Pvt. Ltd.
+*Software Engineering Intern | Dec 2025 – Mar 2026*
+
+Built a complete fuel delivery ecosystem with 3 mobile apps, payment integration, BLE hardware communication, and offline-first architecture.
+
+| Feature | Details |
+|---|---|
+| Payment Gateway | HDFC SmartGateway — UPI, card, net banking |
+| Hardware Integration | BLE with MDU fuel dispensing controllers |
+| Offline Architecture | SQLite/Room — works in zero-network environments |
+| Backend | Node.js + PostgreSQL multi-tenant APIs |
+| Mobile | React Native (Customer + Pump) + Kotlin (Driver) |
+
+ **Demo Videos:**
+- [Mobile Apps Demo](https://youtu.be/T_aknmj_OMk)
+- [HDFC Payment Integration](https://youtube.com/shorts/yjLM73QRG10?feature=share)
+- [BLE Hardware Connection](https://youtube.com/shorts/1LNf6l4ac_c?feature=share)
+
+*Code remains confidential per internship agreement. Videos show functionality only.*
 
 ---
+
+## Other Projects
+
+| Project | Tech | Links |
+|---|---|---|
+| AI Resume Scanner | Python, Streamlit, NLP | [Live](https://ai-resume-scanner.streamlit.app/) • [Repo](https://github.com/Venugopal1807/AI-Resume-Scanner) |
+| Chat Application | Flask, Socket.IO, JS | [Live](https://python-chat-app-isfe.onrender.com/) • [Repo](https://github.com/Venugopal1807/Python-Chat-App) |
+| React Admin Dashboard | React, Recharts, Vite | [Live](https://react-admin-dashboard-gamma-two.vercel.app/) • [Repo](https://github.com/Venugopal1807/React-Admin-Dashboard) |
+| Gemini Clone | React.js, Tailwind | [Live](https://gemini-clone-ashy-three.vercel.app/) • [Repo](https://github.com/Venugopal1807/Gemini-Clone) |
+
+---
+
+## Certifications
+- Full Stack Development — Green Tree Softtech Solutions
+- AI for Beginners — HP
+- Python Programming — Green Tree Softtech Solutions
+
+---
+
+<p align="center">
+   <strong>kunchepu.venugopal@gmail.com</strong> | +91 6301954133
+</p>
