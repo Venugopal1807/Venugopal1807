@@ -17,11 +17,11 @@
 
 Software developer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
 
-- 🔧 Built **3 production mobile apps** — Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
-- 💳 Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
-- 📡 Implemented **Bluetooth Low Energy (BLE)** communication between mobile apps and fuel dispensing hardware (MDU controllers)
-- 🔌 Designed **offline-first architecture** using SQLite/Room for zero-network environments
-- 🗄️ Built **backend REST APIs** with Node.js, TypeScript, and PostgreSQL with multi-tenant data isolation
+- Built **3 production mobile apps** — Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
+- Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
+- Implemented **Bluetooth Low Energy (BLE)** communication between mobile apps and fuel dispensing hardware (MDU controllers)
+- Designed **offline-first architecture** using SQLite/Room for zero-network environments
+- Built **backend REST APIs** with Node.js, TypeScript, and PostgreSQL with multi-tenant data isolation
 
 Currently seeking **full-time roles** in Full Stack, Backend, or Mobile Development.
 Based in Hyderabad | Immediate joiner | Open to remote & relocation
