@@ -17,7 +17,7 @@
 
 Software developer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
 
-- Built **3 production mobile apps** — Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
+- Built **3 production mobile apps** such as Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
 - Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
 - Implemented **Bluetooth Low Energy (BLE)** communication between mobile apps and fuel dispensing hardware (MDU controllers)
 - Designed **offline-first architecture** using SQLite/Room for zero-network environments
@@ -49,16 +49,16 @@ Based in Hyderabad | Immediate joiner | Open to remote & relocation
 
 ## Featured Work
 
-### Fuel Delivery Platform — Zapygo Energy Pvt. Ltd.
+### Fuel Delivery Platform: Zapygo Energy Pvt. Ltd.
 *Software Engineering Intern | Dec 2025 – Mar 2026*
 
 Built a complete fuel delivery ecosystem with 3 mobile apps, payment integration, BLE hardware communication, and offline-first architecture.
 
 | Feature | Details |
 |---|---|
-| Payment Gateway | HDFC SmartGateway — UPI, card, net banking |
+| Payment Gateway | HDFC SmartGateway: UPI, card, net banking |
 | Hardware Integration | BLE with MDU fuel dispensing controllers |
-| Offline Architecture | SQLite/Room — works in zero-network environments |
+| Offline Architecture | SQLite/Room works in zero-network environments |
 | Backend | Node.js + PostgreSQL multi-tenant APIs |
 | Mobile | React Native (Customer + Pump) + Kotlin (Driver) |
 
