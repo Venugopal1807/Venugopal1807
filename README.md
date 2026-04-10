@@ -1,7 +1,7 @@
 <h1 align="center">Venu Gopal Kunchepu</h1>
 
 <p align="center">
-  <strong>Full Stack & Mobile Developer</strong><br/>
+  <strong>Mobile Engineer</strong><br/>
   React Native • Kotlin • Node.js • TypeScript • PostgreSQL
 </p>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Software developer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
+Mobile Engineer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
 
 - Built **3 production mobile apps** such as Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
 - Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
