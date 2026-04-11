@@ -15,16 +15,23 @@
 
 ## About Me
 
-Mobile Engineer with hands-on experience building production mobile and backend systems during my internship at **Zapygo Energy Pvt. Ltd.**
+Mobile Engineer with production experience building production mobile and backend systems.
 
-- Built **3 production mobile apps** such as Customer App (React Native), Driver App (Kotlin), Petrol Pump Manager (React Native)
-- Integrated **HDFC SmartGateway** payment system coordinating with the bank's technical team
-- Implemented **Bluetooth Low Energy (BLE)** communication between mobile apps and fuel dispensing hardware (MDU controllers)
-- Designed **offline-first architecture** using SQLite/Room for zero-network environments
-- Built **backend REST APIs** with Node.js, TypeScript, and PostgreSQL with multi-tenant data isolation
+I build reliable mobile systems for real-world constraints: Offline-first architectures, BLE hardware integration, and payment flows.
 
-Currently seeking **full-time roles** in Full Stack, Backend, or Mobile Development.
-Based in Hyderabad | Immediate joiner | Open to remote & relocation
+### Current Work
+**SmartFuel Tracker**: Production-grade offline-first BLE fuel delivery platform (React Native + Node.js + PostgreSQL)
+- Idempotent sync engine with UUID deduplication and zero data loss
+- BLE simulation + fallback logic
+- HMAC-SHA256 payment verification
+- Live backend on Railway + CI/CD
+
+### Professional Experience
+**Software Engineering Intern @ Zapygo Energy** (Dec 2025 – Mar 2026)
+- Owned and deployed **Petrol Pump Manager App** (React Native) to Google Play Store
+- Built **Driver App** in Kotlin/Jetpack Compose with reliable BLE fuel dispensing (50m radius, OTP, safety constraints)
+- Implemented offline-first SQLite architecture with auto-refresh for low-network field operations
+- Contributed HDFC SmartGateway payment integration + geo-zoning (Haversine, 30km radius)
 
 ---
 
