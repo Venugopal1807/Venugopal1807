@@ -17,7 +17,7 @@
 
 Mobile Engineer with production experience building production mobile and backend systems.
 
-I build reliable mobile systems for real-world constraints: Offline-first architectures, BLE hardware integration, and payment flows.
+I build mobile systems for real-world field operations. Offline-first architecture, BLE hardware integration, and payment flows shipped to production at Zapygo Energy across three Play Store apps.
 
 ### Current Work
 **SmartFuel Tracker**: Production-grade offline-first BLE fuel delivery platform (React Native + Node.js + PostgreSQL)
