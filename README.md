@@ -92,7 +92,7 @@ Built a complete fuel delivery ecosystem with 3 mobile apps, payment integration
 ## Certifications
 - Full Stack Development - Green Tree Softtech Solutions
 - AI for Beginners - HP
-- Python Programming — Green Tree Softtech Solutions
+- Python Programming - Green Tree Softtech Solutions
 
 ---
 
