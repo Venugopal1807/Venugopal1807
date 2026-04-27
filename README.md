@@ -1,8 +1,8 @@
 <h1 align="center">Venu Gopal Kunchepu</h1>
 
 <p align="center">
-  <strong>Mobile Engineer</strong><br/>
-  React Native • Kotlin • Node.js • TypeScript • PostgreSQL
+  <strong>Software Engineer</strong><br/>
+  React.js • React Native • Kotlin • Node.js • TypeScript • PostgreSQL
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Mobile Engineer with production experience building production mobile and backend systems.
+Software Engineer with production experience building production mobile and backend systems.
 
 I build mobile systems for real-world field operations. Offline-first architecture, BLE hardware integration, and payment flows shipped to production at Zapygo Energy across three Play Store apps.
 
