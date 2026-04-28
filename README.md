@@ -24,15 +24,19 @@ I build mobile systems for real-world field operations. Offline-first architectu
 - Idempotent sync engine with UUID deduplication and zero data loss
 - BLE simulation + fallback logic
 - HMAC-SHA256 payment verification
-- Live backend on Railway + CI/CD
+- Live backend on Render + CI/CD
 
 ### Professional Experience
 **Software Engineering Intern @ Zapygo Energy** (Dec 2025 – Mar 2026)
-- Owned and deployed **Petrol Pump Manager App** (React Native) to Google Play Store
-- Built **Driver App** in Kotlin/Jetpack Compose with reliable BLE fuel dispensing (50m radius, OTP, safety constraints)
-- Implemented offline-first SQLite architecture with auto-refresh for low-network field operations
-- Contributed HDFC SmartGateway payment integration + geo-zoning (Haversine, 30km radius)
-
+- Owned and shipped **3 production mobile apps** (Driver, Petrol Pump, Customer) to Play Store using React Native and Kotlin.
+- Implemented a **geo-based service zoning system** (30 km radius) using Haversine formula + bounding box optimization,
+  created a reusable zoning-core shared package consumed across all 3 repos.
+- Led **HDFC SmartGateway payments integration** in Customer App, migrated Expo to bare React Native CLI and coordinated
+  directly with HDFC technical team for sandbox-to-production rollout.
+- Designed **offline-first SQLite/Room architecture** supporting 100+ daily operations and handled PostgreSQL schema design
+  and migrations for backend services.
+- Designed **0→1 backend infrastructure** using Railway and Cloudflare, prioritizing low-cost deployment and scalable
+  architecture for early-stage product development.
 ---
 
 ## Tech Stack
