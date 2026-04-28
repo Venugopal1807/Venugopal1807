@@ -42,7 +42,7 @@ I build mobile systems for real-world field operations. Offline-first architectu
 ## Tech Stack
 
 **Mobile & Frontend**
-`React Native` `Kotlin` `Android (Jetpack Compose)` `React.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML/CSS`
+`React Native` `Kotlin` `Android (Jetpack Compose)` `React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML/CSS`
 
 **Backend & APIs**
 `Node.js` `Express.js` `Python` `Flask` `FastAPI` `REST APIs` `JWT Authentication`
@@ -54,7 +54,7 @@ I build mobile systems for real-world field operations. Offline-first architectu
 `HDFC SmartGateway` `Bluetooth Low Energy (BLE)` `Firebase`
 
 **Tools & Deployment**
-`Git` `GitHub` `Postman` `Figma` `Expo EAS` `Railway` `Vercel` `Replit` `Google Cloud Console` `Vite`
+`Git` `GitHub` `Postman` `Figma` `Expo EAS` `Railway` `Vercel` `Replit` `Google Cloud Console` `Vite` `Cloudflare`
 
 ---
 
@@ -70,7 +70,7 @@ Built a complete fuel delivery ecosystem with 3 mobile apps, payment integration
 | Payment Gateway | HDFC SmartGateway: UPI, card, net banking |
 | Hardware Integration | BLE with MDU fuel dispensing controllers |
 | Offline Architecture | SQLite/Room works in zero-network environments |
-| Backend | Node.js + PostgreSQL multi-tenant APIs |
+| Backend | Node.js + PostgreSQL + TypeScript multi-tenant APIs |
 | Mobile | React Native (Customer + Pump) + Kotlin (Driver) |
 
  **Demo Videos:**
